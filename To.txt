@@ -1,0 +1,18 @@
+前两天学习了python基础知识
+昨天研究了 vscode的版本控制,github一起使用。
+  已经两个插件，gitLens
+  Setting Sync - （GFW的原因，这个用不了，删除）
+  gitbash， 特别是 无密码上传github废了不少功夫。
+
+直接网页浏览：
+   https://github.com/AaG7xNnrgbzeyqc5woPS/python_learn
+   https://github.com/AaG7xNnrgbzeyqc5woPS/test
+
+git 命令行下载源码：
+  git clone https://github.com/AaG7xNnrgbzeyqc5woPS/python_learn.git
+  git clone https://github.com/AaG7xNnrgbzeyqc5woPS/test
+
+Todo:
+   今天太忙， 晚上学习python 面向对象
+    
+
